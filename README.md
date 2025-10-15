@@ -2,6 +2,7 @@
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--3813--2474-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0003-3813-2474)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![AWS Certified](https://img.shields.io/badge/AWS%20Certified-Machine%20Learning%20Associate-brightgreen?logo=amazonaws&logoColor=white)
 ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-brightgreen?logo=amazon-aws)
 ![TensorFlow Version](https://img.shields.io/badge/TensorFlow-v2.14.0-FF6F00?logo=tensorflow&logoColor=white)

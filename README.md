@@ -5,14 +5,14 @@
 ![AWS Certified](https://img.shields.io/badge/AWS%20Certified-Machine%20Learning%20Associate-brightgreen?logo=amazonaws&logoColor=white)
 ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-brightgreen?logo=amazon-aws)
 ![TensorFlow Version](https://img.shields.io/badge/TensorFlow-v2.14.0-FF6F00?logo=tensorflow&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) ![Django](https://img.shields.io/badge/Framework-Django-092E20?logo=django&logoColor=white)![React](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=black)
 
 ### About Me
 - I am an AWS certified Machine Learning Engineer and Data Scientist who is focused on building data solutions to solve real world problems.
 - Currently open to opportunities to build and contribute to development of machine learning based applications - fraud classification/detection, price-prediction (time series analysis) - *in a production environment*.
 - My current focus is building machine learning applications at scale.
 - I enjoy learning and working on projects that involve structured and unstructured data - essentially transforming messy data 😞 to a clean and useful format😁.
-- I also have web development with ![Django](https://img.shields.io/badge/Framework-Django-092E20?logo=django&logoColor=white)![React](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=black)
+- I also have web development experience 
 but my real love is data science and machine learning.
 - I am currently looking to collaborate on open source tools for data science and machine learning.
 

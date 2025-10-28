@@ -25,6 +25,7 @@ but my real love is data science and machine learning.
 ### Publications
 
 - [Facial action unit classification using weakly supervised learning](https://wiredspace.wits.ac.za/items/38926c49-4695-4d34-986e-38316a406bca)
+    - See code repository ➡️ [Emotion detection weakly supervised learning](https://github.com/OTeeEnabor/emotion_detection_weakly_supervised_learning)
 - [Action Unit Recognition: Leveraging Weak Supervision with Large Loss Rejection](https://pure.uj.ac.za/en/publications/action-unit-recognition-leveraging-weak-supervision-withlarge-los)
 - [Vibe Coding: A New Paradigm in Computer Programming](https://www.linkedin.com/pulse/vibe-coding-new-paradigm-computer-programming-oseluole-enabor-bihpf/?trackingId=Jw0a2gwUS2yDxif1%2FXA1aQ%3D%3D)
 
